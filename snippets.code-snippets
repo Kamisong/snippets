@@ -7,7 +7,7 @@
       "",
       "my_test() {",
       "  const ${1:treeConfig} = {",
-      "Here is my test"
+      "//Here is my test"
     ]
   }
 }
