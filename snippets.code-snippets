@@ -1,9 +1,13 @@
 {
     "FormTable": {
-      "prefix": "tony",
-      "body": [
-        "This is my simple test"
-      ],
-      "description": "Code snippet for my test'"
-    }
+    "prefix": "ycft",
+    "body": [
+      "import React from 'react';",
+      "import YcCharts from 'xxx';",
+      "",
+      "my_test() {",
+      "  const ${1:treeConfig} = {",
+      "Here is my test"
+    ]
   }
+}
